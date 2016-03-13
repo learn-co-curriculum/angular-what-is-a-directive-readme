@@ -2,7 +2,7 @@
 
 ## Overview
 
-You might not have noticed, but we've used directives already in our previous labs. Directives are essential to learning Angular, so hold in tight!
+You might not have noticed, but we've used directives already in our previous labs. Directives are essential to learning Angular, so hold on tight!
 
 ## Objectives
 
@@ -35,3 +35,5 @@ We'll have more on these in the next couple of lessons.
 ## Built-in directives
 
 Luckily for us, Angular comes with a tonne of built-in directives that do what we mentioned above and more. We'll be looking into the built-in ones in the other sections of this unit. Angular's built-in directives are prefixed with `ng-` (you might have noticed we're already using `ng-app` and `ng-controller` - these are just directives!) `ng-app` tells Angular what DOM node to put our application inside of. `ng-controller` tells Angular to attach our controller to that DOM node so we can access the controller inside of the element.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/angular-what-is-a-directive-readme'>Angular What Is A Directive</a> on Learn.co and start learning to code for free.</p>
